@@ -5,7 +5,7 @@ Branches:
 
 Sandbox:
   children:
-    Sandbox_Swithces:
+    Sandbox_Switches:
 
 Sandbox_Switches:
   hosts:
